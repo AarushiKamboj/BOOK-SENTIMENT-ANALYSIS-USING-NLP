@@ -1,1 +1,2 @@
 # BOOK-SENTIMENT-ANALYSIS-USING-NLP
+"Developed a sentiment analysis pipeline for literary texts by different authors. Utilized web scraping techniques to gather data, followed by data preprocessing and feature extraction. Applied machine learning models to classify and analyze the sentiment of the texts, gaining insights into the emotional tone and authorial style. The project demonstrates proficiency in natural language processing, data analysis, and model evaluation."
